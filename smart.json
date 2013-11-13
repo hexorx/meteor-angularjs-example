@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "angularjs": {
+      "git": "https://github.com/hexorx/Meteor_angularjs.git"
+    }
+  }
+}

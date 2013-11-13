@@ -1,0 +1,18 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "angularjs": {
+        "git": "https://github.com/hexorx/Meteor_angularjs.git",
+        "branch": "master"
+      }
+    },
+    "packages": {
+      "angularjs": {
+        "git": "https://github.com/hexorx/Meteor_angularjs.git",
+        "branch": "master",
+        "commit": "34024cf815b4de54d013a036ed50962018055c5a"
+      }
+    }
+  }
+}
